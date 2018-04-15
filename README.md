@@ -1,16 +1,23 @@
-# writings and publications (in reverse chronological order)
+# writings and publications i've in some way contributed to (reverse chronological order)
 
-**Ko, Allan**. 2013-2018. Student blog for MIT Admissions. 
+**Ko, Allan**. 2013-2018. Blog about student life for MIT Admissions. 
 - http://mitadmissions.org/blogs/author/allan/archives
+- sample posts:
+-- (data justice for senior house)[http://mitadmissions.org/blogs/entry/data-justice-for-senior-house]
+-- (neutrality isn’t about objectivity—it’s about who has the power)[http://mitadmissions.org/blogs/entry/neutrality-isnt-about-objectivity-its-about-who-has-the-power]
 
 Shah, Anushka, **Allan Ko**, and Fernando Peinado. 2017. “The Mainstream Media Didn’t Care about Puerto Rico until It Became a Trump Story.” Washington Post, November 27, 2017. 
 - https://www.washingtonpost.com/news/posteverything/wp/2017/11/27/the-mainstream-media-didnt-care-about-puerto-rico-until-it-became-a-trump-story/
+- An examination of over 80 print and online media coverage across the United States shows that more than 1,100 news outlets carried stories about Harvey and Irma, the two other monster storms that struck U.S. soil this hurricane season, while only about 500 carried stories on Maria in a similar time frame. Overall, Hurricane Maria received only a third as many mentions in text as hurricanes Harvey and Irma. Data from the Media Cloud project at the MIT Media Lab shows that U.S. media outlets ran 6,591 stories online about Maria from Sept. 9 through Oct. 10 (one week before the formation of each hurricane through one week after the storm became inactive). By comparison, news outlets published 19,214 stories online about Harvey and 17,338 on Irma.
 
 Zuckerman, Ethan, **Allan Ko**, Rahul Bhargava, and Hal Roberts. 2016. “Race, Fame, and Ability: Untangling Media Coverage of NFL Quarterbacks.” Blog. MIT Center for Civic Media (blog). December 24, 2016. 
 - https://civic.mit.edu/blog/rahulb/race-fame-and-ability-untangling-media-coverage-of-nfl-quarterbacks
+- Some years ago, journalist and activist, the late Dori Maynard posed a question to the Media Cloud team: Does sports media use different language to talk about black and white athletes? The question, Dori told us, came from basketball player Isaiah Thomas, who had observed that journalists often described black athletes as physically talented but talked about the intelligence of white athletes. While both descriptions are laudatory, they focus on different aspects of a player's talents, and enforce long-standing racial stereotypes about intellect and physicality. Could Media Cloud, Dori wondered, put some numbers to these anecdotes?
 
 Matias, J. Nathan, Merry Mou, and **Allan Ko**. 2016. “The Obligation To Experiment.” MIT MEDIA LAB (blog). December 12, 2016. 
 - https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9#.dudfzyo2j
+- **Tech companies should test the effects of their products on our safety and civil liberties. We should also test them ourselves.** How do you know if you have a moral obligation to test and publish the potential outcomes of something you’re doing in the world? Here we focus on the risks and benefits of an intervention. If the risks or promises are greater, the obligation is greater. In the following list, we outline categories of risk, along with actual technologies and policies that involve those risks. Risks to life include significant and often irreversible harms, while risks to liberty include societal values of rights and fairness.
 
 Singal, Jack, **Allan Ko**, and Vahe Petrosian. 2014. “GAMMA-RAY LUMINOSITY AND PHOTON INDEX EVOLUTION OF FSRQ BLAZARS AND CONTRIBUTION TO THE GAMMA-RAY BACKGROUND.” The Astrophysical Journal 786 (2): 109. 
 - https://doi.org/10.1088/0004-637X/786/2/109
+- We present the redshift evolutions and distributions of the gamma-ray luminosity and photon spectral index of flat spectrum radio quasar (FSRQ) type blazars, using non-parametric methods to obtain the evolutions and distributions directly from the data. The sample we use for analysis consists of almost all FSRQs observed with a greater than approximately 7σ detection threshold in the first-year catalog of the Fermi Gamma-ray Space Telescope's Large Area Telescope, with redshifts as determined from optical spectroscopy by Shaw et al. We find that FSQRs undergo rapid gamma-ray luminosity evolution, but negligible photon index evolution, with redshift. With these evolutions accounted for we determine the density evolution and luminosity function of FSRQs and calculate their total contribution to the extragalactic gamma-ray background radiation, resolved and unresolved, which is found to be 16(+10/–4)%, in agreement with previous studies.
