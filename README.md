@@ -8,6 +8,7 @@
 - sample posts:
 - [data justice for senior house](http://mitadmissions.org/blogs/entry/data-justice-for-senior-house)
 - [net neutrality isn’t about objectivity—it’s about who has the power](http://mitadmissions.org/blogs/entry/neutrality-isnt-about-objectivity-its-about-who-has-the-power)
+- [how to choose your major: knitting the cozy sweater of identity](http://mitadmissions.org/blogs/entry/how-to-choose-your-major) (co-constructed with Alyssa Smith and Aaron Suarez)
 
 Shah, Anushka, **Allan Ko**, and Fernando Peinado. 2017. “The Mainstream Media Didn’t Care about Puerto Rico until It Became a Trump Story.” Washington Post, November 27, 2017. https://www.washingtonpost.com/news/posteverything/wp/2017/11/27/the-mainstream-media-didnt-care-about-puerto-rico-until-it-became-a-trump-story/.
 - An examination of over 80 print and online media coverage across the United States shows that more than 1,100 news outlets carried stories about Harvey and Irma, the two other monster storms that struck U.S. soil this hurricane season, while only about 500 carried stories on Maria in a similar time frame. Overall, Hurricane Maria received only a third as many mentions in text as hurricanes Harvey and Irma. Data from the Media Cloud project at the MIT Media Lab shows that U.S. media outlets ran 6,591 stories online about Maria from Sept. 9 through Oct. 10 (one week before the formation of each hurricane through one week after the storm became inactive). By comparison, news outlets published 19,214 stories online about Harvey and 17,338 on Irma.
