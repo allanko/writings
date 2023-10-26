@@ -12,7 +12,7 @@ Zuckerman, Ethan, J. Nathan Matias, Rahul Bhargava, Fernando Bermejo, and **Alla
 - my undergraduate thesis in Comparative Media Studies, advised by Profs. [TL Taylor](https://cmsw.mit.edu/profile/tl-taylor/) and [Ian Condry](https://cmsw.mit.edu/profile/ian-condry/). Also available through [MIT Libraries](https://lib.mit.edu/record/cat00916a/mit.002803933).
 - Four undergraduate students died by suicide during my enrollment at MIT between 2013 and 2017. I document the ways in which suicide becomes more than the event of death itself, embedding itself back into everyday life. Suicide becomes what I describe as ambient and infrastructural, articulated through community traditions, announcement emails, Facebook posts, publicity posters, awareness flags, and all the other structures and artifacts of daily life in the MIT community. Drawing on field observations with the student-run texting help line Lean On Me, as well as interviews of students and administrators working in campus mental health organizations, I then explore how mental health organizations approach their work within an environment where suicide is ambient and infrastructural.
 
-**Ko, Allan**. 2013-2018. Blog about student life for MIT Admissions. http://mitadmissions.org/blogs/author/allan/archives.
+**Ko, Allan**. 2013-2018. Blog about student life for MIT Admissions. http://mitadmissions.org/blogs/author/allan/.
 - sample posts:
 - [data justice for senior house](http://mitadmissions.org/blogs/entry/data-justice-for-senior-house)
 - [net neutrality isn’t about objectivity—it’s about who has the power](http://mitadmissions.org/blogs/entry/neutrality-isnt-about-objectivity-its-about-who-has-the-power)
